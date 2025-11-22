@@ -45,8 +45,6 @@ Additionally, the project allowed me to apply all concepts learned in the LangCh
 
 Ultimately, I chose this project because it:
 
-Ultimately, I chose this project because it:
-
 - Solves a meaningful, industry-relevant problem
 - Demonstrates mastery of cutting-edge AI tools and workflows
 - Strengthens my portfolio for placements in AI/ML, software development, and automation
