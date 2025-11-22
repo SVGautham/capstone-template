@@ -27,7 +27,7 @@ The objective of this project is to apply advanced concepts from LangGraph—suc
 
 ## Overview
 
-[The Resume–Job Description Matching Agent is an AI-driven system built using LangGraph, designed to automate and enhance the candidate screening process. Traditional resume evaluation is often time-consuming, subjective, and inconsistent across reviewers. This project aims to address these challenges by leveraging advanced agentic workflows, large language models (LLMs), and embedding-based similarity measures to deliver a consistent, scalable, and intelligent recruitment support tool.
+The Resume–Job Description Matching Agent is an AI-driven system built using LangGraph, designed to automate and enhance the candidate screening process. Traditional resume evaluation is often time-consuming, subjective, and inconsistent across reviewers. This project aims to address these challenges by leveraging advanced agentic workflows, large language models (LLMs), and embedding-based similarity measures to deliver a consistent, scalable, and intelligent recruitment support tool.
 
 The project applies all core concepts taught in the LangChain – Introduction to LangGraph (Modules 1–4) course. Using a StateGraph, the system maintains structured memory, routes information through multiple evaluator personas, and executes deterministic multi-step workflows. Each evaluator agent—modelled as HR, Technical Reviewer, and Hiring Manager—assesses the candidate from a specific perspective, enabling a holistic and human-like evaluation.
 
