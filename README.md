@@ -1,4 +1,3 @@
-Template for creating and submitting MAT496 capstone project.
 
 # Overview of MAT496
 
