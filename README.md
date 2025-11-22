@@ -53,13 +53,43 @@ Ultimately, I chose this project because it:
 
 ## Plan
 
-I plan to excecute these steps to complete my project.
+I plan to execute the following steps to complete my project:
 
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
+[TODO] Step 1: Problem Understanding & Requirement Definition
+Identify the core problem in resume–JD matching, define system requirements, and finalize the objectives and scope of the project.
+
+[TODO] Step 2: Study LangGraph Concepts (Modules 1–4)
+Review and understand LangGraph topics such as State, Memory, Multi-Agent Collaboration, Graph Execution, and LLM Reasoning to prepare for implementation.
+
+[TODO] Step 3: Design System Architecture
+Create a high-level architecture diagram showing the flow of data through the StateGraph, evaluator agents, embedding generator, and aggregator node.
+
+[TODO] Step 4: Set Up Development Environment
+Install Python, LangChain, LangGraph, embedding models, and required libraries. Configure the project folder and version control using GitHub.
+
+[TODO] Step 5: Construct the StateGraph
+Define the state structure, create nodes, connect START → evaluator → loop → END, and configure routing logic.
+
+[TODO] Step 6: Implement Embedding-Based Similarity Scoring
+Convert resume and JD into embeddings, compute cosine similarity, and store results in the state object.
+
+[TODO] Step 7: Build Multi-Persona Evaluator Agents
+Create HR, Technical, and Hiring Manager personas that evaluate the resume using LLMs based on specific role prompts.
+
+[TODO] Step 8: Implement Iterative Evaluation Loop
+Configure a looping mechanism where evaluation runs repeatedly until similarity or evaluation thresholds are met.
+
+[TODO] Step 9: Create Aggregation Logic
+Combine persona evaluations into a final summary, generate a match score, and produce explanation-based output.
+
+[TODO] Step 10: Testing & Debugging
+Run multiple resume–JD pairs, validate results, fix logic issues, and ensure the system behaves consistently.
+
+[TODO] Step 11: Documentation & README Preparation
+Write explanations, architecture details, LangGraph concepts applied, and final results for academic evaluation.
+
+[TODO] Step 12: Final Report, GitHub Submission & Presentation
+Complete the project report, upload the full code to GitHub, and prepare for viva/presentation.
 
 ## Conclusion:
 
