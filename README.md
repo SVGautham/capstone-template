@@ -16,14 +16,14 @@ We also learned that Langsmith is a nice tool for debugging Langgraph codes.
 
 # Capstone Project objective
 
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, we can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
+The objective of this project is to apply advanced concepts from LangGraph—such as state management, memory, multi-agent collaboration, and iterative LLM reasoning—to build an AI-driven system capable of evaluating how closely a resume matches a job description. As a final-year engineering student preparing for placements, this project demonstrates my ability to work with cutting-edge AI frameworks, build end-to-end agentic workflows, and develop solutions that bridge the gap between artificial intelligence and real recruitment challenges.
 
 
 -------------------------
 
 # Project report Template
 
-## Title: [your title goes here]
+## Title: Resume–Job Description Matching Agent
 
 ## Overview
 
