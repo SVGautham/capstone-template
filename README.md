@@ -37,7 +37,23 @@ This project demonstrates how modern AI frameworks like LangGraph can be used to
 
 ## Reason for picking up this project
 
-Expain how this project is aligned with this course content.
+The primary reason for choosing this project is the growing need for intelligent automation in recruitment, where organizations face high volumes of applications and struggle to manually evaluate resumes with consistency and accuracy. As companies increasingly rely on AI to streamline HR processes, building a Resume–Job Description Matching Agent provides both real-world relevance and technical depth for a final-year engineering capstone(Helpful during the placement season).
+
+This project also aligns closely with current industry trends in agentic AI systems, LLM-based reasoning, and workflow orchestration frameworks like LangGraph. By selecting this project, I aimed to gain hands-on experience with modern AI engineering practices, including multi-agent collaboration, state management, embedding-based similarity, and controlled graph execution—skills that are highly valued in software, AI, and data science roles.
+
+Additionally, the project allowed me to apply all concepts learned in the LangChain Introduction to LangGraph course (Modules 1–4), ensuring that the work is both academically grounded and technically rigorous. It provides an opportunity to demonstrate my ability to design, implement, and optimize an end-to-end AI system that solves a real-world problem through structured reasoning and explainable automation.
+
+Ultimately, I chose this project because it:
+
+Solves a meaningful, industry-relevant problem
+
+Demonstrates mastery of cutting-edge AI tools and workflows
+
+Strengthens my portfolio for placements in AI/ML, software development, and automation
+
+Combines theoretical understanding with practical engineering implementation
+
+Provides a solid foundation for building more advanced agentic systems in the future
 
 ## Plan
 
