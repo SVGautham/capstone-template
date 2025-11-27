@@ -55,45 +55,46 @@ Ultimately, I chose this project because it:
 
 I plan to execute the following steps to complete my project:
 
-[TODO] Step 1: Problem Understanding & Requirement Definition
+[DONE] Step 1: Problem Understanding & Requirement Definition
 Identify the core problem in resume–JD matching, define system requirements, and finalize the objectives and scope of the project.
 
-[TODO] Step 2: Study LangGraph Concepts (Modules 1–4)
+[DONE] Step 2: Study LangGraph Concepts (Modules 1–4)
 Review and understand LangGraph topics such as State, Memory, Multi-Agent Collaboration, Graph Execution, and LLM Reasoning to prepare for implementation.
 
-[TODO] Step 3: Design System Architecture
+[DONE] Step 3: Design System Architecture
 Create a high-level architecture diagram showing the flow of data through the StateGraph, evaluator agents, embedding generator, and aggregator node.
 
-[TODO] Step 4: Set Up Development Environment
+[DONE] Step 4: Set Up Development Environment
 Install Python, LangChain, LangGraph, embedding models, and required libraries. Configure the project folder and version control using GitHub.
 
-[TODO] Step 5: Construct the StateGraph
+[DONE] Step 5: Construct the StateGraph
 Define the state structure, create nodes, connect START → evaluator → loop → END, and configure routing logic.
 
-[TODO] Step 6: Implement Embedding-Based Similarity Scoring
+[DONE] Step 6: Implement Embedding-Based Similarity Scoring
 Convert resume and JD into embeddings, compute cosine similarity, and store results in the state object.
 
-[TODO] Step 7: Build Multi-Persona Evaluator Agents
+[DONE] Step 7: Build Multi-Persona Evaluator Agents
 Create HR, Technical, and Hiring Manager personas that evaluate the resume using LLMs based on specific role prompts.
 
-[TODO] Step 8: Implement Iterative Evaluation Loop
+[DONE] Step 8: Implement Iterative Evaluation Loop
 Configure a looping mechanism where evaluation runs repeatedly until similarity or evaluation thresholds are met.
 
-[TODO] Step 9: Create Aggregation Logic
+[DONE] Step 9: Create Aggregation Logic
 Combine persona evaluations into a final summary, generate a match score, and produce explanation-based output.
 
-[TODO] Step 10: Testing & Debugging
+[DONE] Step 10: Testing & Debugging
 Run multiple resume–JD pairs, validate results, fix logic issues, and ensure the system behaves consistently.
 
-[TODO] Step 11: Documentation & README Preparation
+[DONE] Step 11: Documentation & README Preparation
 Write explanations, architecture details, LangGraph concepts applied, and final results for academic evaluation.
 
-[TODO] Step 12: Final Report, GitHub Submission & Presentation
+[DONE] Step 12: Final Report, GitHub Submission & Presentation
 Complete the project report, upload the full code to GitHub, and prepare for viva/presentation.
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
+In this project, I set out to design and implement an intelligent Resume–Job Description Matching Agent using LangGraph, with the goal of applying modern AI engineering principles to a real-world problem. I successfully achieved the objectives I had planned—building a modular StateGraph, integrating embedding-based similarity scoring, developing multi-persona evaluator agents, and orchestrating the entire workflow through iterative, explainable reasoning. The system performs reliably across different resume–JD pairs and aligns well with industry practices in AI automation and agentic frameworks. Overall, I am satisfied with the outcome because the project not only meets the technical requirements of a final-year capstone but also enhances my readiness for roles in AI/ML and software engineering. It demonstrates a practical understanding of LangGraph concepts, solid engineering discipline, and the ability to deliver an end-to-end AI solution that addresses a meaningful, industry-relevant challenge.
+
 
 ----------
 
