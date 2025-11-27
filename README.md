@@ -95,6 +95,7 @@ Complete the project report, upload the full code to GitHub, and prepare for viv
 
 In this project, I set out to design and implement an intelligent Resume–Job Description Matching Agent using LangGraph, with the goal of applying modern AI engineering principles to a real-world problem. I successfully achieved the objectives I had planned—building a modular StateGraph, integrating embedding-based similarity scoring, developing multi-persona evaluator agents, and orchestrating the entire workflow through iterative, explainable reasoning. The system performs reliably across different resume–JD pairs and aligns well with industry practices in AI automation and agentic frameworks. Overall, I am satisfied with the outcome because the project not only meets the technical requirements of a final-year capstone but also enhances my readiness for roles in AI/ML and software engineering. It demonstrates a practical understanding of LangGraph concepts, solid engineering discipline, and the ability to deliver an end-to-end AI solution that addresses a meaningful, industry-relevant challenge.
 
+I edited the readme file todo to done on 27th Nov meanwhile the project was done on 24th Nov because of placement processes i forgot the last step to update the commits after every task (can check the commit history). The project was done on the span of 3 days 22 Nov to 24 Nov with all ideation and care of timeline taken into consideration.
 
 ----------
 
