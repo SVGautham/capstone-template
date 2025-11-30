@@ -91,6 +91,20 @@ Write explanations, architecture details, LangGraph concepts applied, and final 
 [DONE] Step 12: Final Report, GitHub Submission & Presentation
 Complete the project report, upload the full code to GitHub, and prepare for viva/presentation.
 
+## Tracing Examples
+![WhatsApp Image 2025-11-30 at 18 18 06](https://github.com/user-attachments/assets/3f1ec0c5-420b-41eb-8066-6cd9f9a3499d)
+![WhatsApp Image 2025-11-30 at 18 18 30](https://github.com/user-attachments/assets/e8629f9f-bbfc-4f11-9171-72f41ff5f456)
+![WhatsApp Image 2025-11-30 at 18 18 30 (1)](https://github.com/user-attachments/assets/c77f5454-8864-4c78-acfa-cf5cd6be5af6)
+![WhatsApp Image 2025-11-30 at 18 18 30 (2)](https://github.com/user-attachments/assets/b5a65c90-335e-4531-9f4a-de7c77251215)
+![WhatsApp Image 2025-11-30 at 18 18 30 (2)](https://github.com/user-attachments/assets/56ec8d53-5cf2-445a-aedc-d4d6bdefb5fc)
+![WhatsApp Image 2025-11-30 at 18 18 30 (4)](https://github.com/user-attachments/assets/9fa482d7-88f9-4bf3-a44a-829491fc02d1)
+![WhatsApp Image 2025-11-30 at 18 18 30 (5)](https://github.com/user-attachments/assets/2ed8f20f-e4df-497e-b37f-d6550d17bf6a)
+![WhatsApp Image 2025-11-30 at 18 18 30 (6)](https://github.com/user-attachments/assets/3025ab69-da69-407d-8386-b88ac207fd08)
+
+
+
+
+
 ## Conclusion:
 
 In this project, I set out to design and implement an intelligent Resume–Job Description Matching Agent using LangGraph, with the goal of applying modern AI engineering principles to a real-world problem. I successfully achieved the objectives I had planned—building a modular StateGraph, integrating embedding-based similarity scoring, developing multi-persona evaluator agents, and orchestrating the entire workflow through iterative, explainable reasoning. The system performs reliably across different resume–JD pairs and aligns well with industry practices in AI automation and agentic frameworks. Overall, I am satisfied with the outcome because the project not only meets the technical requirements of a final-year capstone but also enhances my readiness for roles in AI/ML and software engineering. It demonstrates a practical understanding of LangGraph concepts, solid engineering discipline, and the ability to deliver an end-to-end AI solution that addresses a meaningful, industry-relevant challenge.
